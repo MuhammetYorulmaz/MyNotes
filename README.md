@@ -1,2 +1,2 @@
-# My-Notes
+# My Notes
 Veri Bilimi - Notlarım
